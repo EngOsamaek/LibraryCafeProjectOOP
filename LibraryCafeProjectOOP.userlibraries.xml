@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="itext-asian-5.2.0" />
+  <library name="demo2" />
+  <library name="demo1" />
+  <library name="activation-1.1.1">
+    <archive path="C:/Users/oekuh/Desktop/activation-1.1.1.jar" />
+  </library>
+  <library name="lib2">
+    <archive path="C:/Users/oekuh/Desktop/javamail-1.4.5/lib/dsn.jar" />
+    <archive path="C:/Users/oekuh/Desktop/javamail-1.4.5/lib/imap.jar" />
+    <archive path="C:/Users/oekuh/Desktop/javamail-1.4.5/lib/mail.jar" />
+    <archive path="C:/Users/oekuh/Desktop/javamail-1.4.5/lib/pop3.jar" />
+    <archive path="C:/Users/oekuh/Desktop/javamail-1.4.5/lib/smtp.jar" />
+    <archive path="C:/Users/oekuh/Desktop/javamail-1.4.5/lib/mailapi.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/Users/oekuh/Desktop/lib/src.zip" />
+    <archive path="C:/Users/oekuh/Desktop/lib/javafx-swt.jar" />
+    <archive path="C:/Users/oekuh/Desktop/lib/javafx.web.jar" />
+    <archive path="C:/Users/oekuh/Desktop/lib/javafx.base.jar" />
+    <archive path="C:/Users/oekuh/Desktop/lib/javafx.fxml.jar" />
+    <archive path="C:/Users/oekuh/Desktop/lib/javafx.media.jar" />
+    <archive path="C:/Users/oekuh/Desktop/lib/javafx.swing.jar" />
+    <archive path="C:/Users/oekuh/Desktop/lib/javafx.controls.jar" />
+    <archive path="C:/Users/oekuh/Desktop/lib/javafx.graphics.jar" />
+  </library>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="C:/Users/oekuh/Desktop/LibraryCafeProjectOOP/lib/javax.jms.jar" />
+    <archive path="C:/Users/oekuh/Desktop/LibraryCafeProjectOOP/lib/javax.annotation.jar" />
+    <archive path="C:/Users/oekuh/Desktop/LibraryCafeProjectOOP/lib/javax.ejb.jar" />
+    <archive path="C:/Users/oekuh/Desktop/LibraryCafeProjectOOP/lib/javax.persistence.jar" />
+    <archive path="C:/Users/oekuh/Desktop/LibraryCafeProjectOOP/lib/javax.servlet.jar" />
+    <archive path="C:/Users/oekuh/Desktop/LibraryCafeProjectOOP/lib/javax.servlet.jsp.jar" />
+    <archive path="C:/Users/oekuh/Desktop/LibraryCafeProjectOOP/lib/javax.resource.jar" />
+    <archive path="C:/Users/oekuh/Desktop/LibraryCafeProjectOOP/lib/javax.transaction.jar" />
+    <archive path="C:/Users/oekuh/Desktop/LibraryCafeProjectOOP/lib/javax.servlet.jsp.jstl.jar" />
+  </library>
+</eclipse-userlibraries>
+

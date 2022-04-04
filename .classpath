@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/javafx.controls"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Java EE 6-Java EE 6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/demo1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/demo2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/activation-1.1.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/itext-asian-5.2.0"/>
+	<classpathentry kind="output" path="out/production/LibraryCafeScoolProject"/>
+</classpath>

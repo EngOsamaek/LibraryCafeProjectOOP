@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/LibraryCafeScoolProject"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="Java EE 6-Java EE 6" value="project"/>
+		<level name="demo1" value="project"/>
+		<level name="demo2" value="project"/>
+		<level name="activation-1.1.1" value="project"/>
+		<level name="lib2" value="project"/>
+		<level name="lib" value="project"/>
+		<level name="itext-asian-5.2.0" value="project"/>
+	</levels>
+</component>

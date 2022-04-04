@@ -1,0 +1,417 @@
+.mainPage{
+    -fx-background-image: url("https://cdn.discordapp.com/attachments/704266412994199552/797181457859608597/MainPageImage.jpg");
+    -fx-background-size: 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+.mainPageButtonManagement{
+        -fx-border-radius: 360px;
+        -fx-background-image:url("Images/ManagerIcon.png");
+
+        -fx-background-size: 50%;
+        -fx-background-position: center center;
+        -fx-background-repeat: no-repeat;
+        -fx-padding: 200px;
+        -fx-font-family: 'Tahoma';
+        -fx-background-color: transparent;
+        -fx-text-fill: transparent;
+
+}
+
+.mainPageButtonManagement:hover{
+     -fx-background-image:url("Images/ManagerIconHover.png");
+
+
+}
+
+
+.mainPageButtonCustomer{
+        -fx-border-radius: 360px;
+        -fx-background-image:url("Images/CustomerIcon.png");
+
+        -fx-background-size: 50%;
+        -fx-background-position: center center;
+        -fx-background-repeat: no-repeat;
+        -fx-padding: 200px;
+        -fx-font-family: 'Tahoma';
+        -fx-background-color: transparent;
+        -fx-text-fill: transparent;
+
+}
+
+.mainPageButtonCustomer:hover{
+     -fx-background-image:url("Images/CustomerIconHover.png");
+
+
+}
+.topMenuManagement{
+    -fx-background-color: radial-gradient(radius 360%, #108600 0%,#1fff00 100%);
+}
+.textField{
+-fx-border-width:0px 0px 2px 0px;
+        -fx-background-color: transparent;
+        -fx-border-color: white;
+        -fx-font-size: 15px;
+        -fx-text-fill: white;
+
+}
+.ManagerLoginButton{
+    -fx-border-radius: 5px;
+        -fx-border-color:white;
+        -fx-padding: 10px;
+        -fx-font-size: 15px;
+        -fx-font-family: 'Tahoma';
+        -fx-background-color: transparent;
+        -fx-text-fill: white;
+    }
+.ManagerLoginButton:hover{
+    -fx-background-color: white;
+    -fx-text-fill: #108600;
+}
+.ManagerLoginLeftMenu{
+    -fx-background-image: url("Images/LoginPageManagerBackground.jpg");
+    -fx-background-size: 100%;
+    -fx-background-repeat: no-repeat;
+}
+.ManagerReturnButton{
+ -fx-border-radius: 5px;
+    -fx-border-color:#108600;
+    -fx-padding: 7px;
+    -fx-font-size: 15px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: transparent;
+    -fx-text-fill: #108600;
+}
+.ManagerReturnButton:hover{
+
+    -fx-background-color: #108600;
+    -fx-text-fill:white;
+}
+
+.ManagerPageLeftMenu{
+    -fx-background-color: radial-gradient(radius 360%, #108600 0%,#1fff00 100%);
+    -fx-border-color: white;
+}
+.ManagerPageTopMenu{
+    -fx-background-color: radial-gradient(radius 360%, #108600 0%,#1fff00 100%);;
+    -fx-border-color: white;
+
+}
+.ManagerPageBackground{
+    -fx-background-color: radial-gradient(radius 360%, #108600 0%,#1fff00 100%);
+}
+.ManagerPageButtons{
+    -fx-pref-height: 100;
+    -fx-pref-width: 100;
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-padding: 10px;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+
+}
+.ManagerPageButtons:hover{
+    -fx-background-color: #108600;
+    -fx-text-fill:white;
+}
+
+.AddBookButton{
+
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-padding: 10px;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 25px;
+}
+.AddBookButton:hover{
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-padding: 10px;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: #108600;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+
+}
+.AddBookTextBox{
+    -fx-padding: 7px;
+    -fx-border-radius: 5px;
+    -fx-pref-width: 200px;
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+
+
+}
+.AddBookChoiceBox.choice-box{
+    -fx-text-fill: white;
+    -fx-background-color: transparent;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 25px;
+    -fx-border-color: white;
+
+}
+.AddBookChoiceBox.choice-box>.label{
+   -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+
+.SearchBookButton{
+
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-padding: 10px;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 25px;
+}
+.SearchBookButton:hover{
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: #108600;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+
+}
+.SearchTextBox{
+
+    -fx-padding: 7px;
+    -fx-border-radius: 5px;
+    -fx-pref-width: 200px;
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+
+
+}
+.SearchPageChoiceBox.choice-box{
+    -fx-text-fill: white;
+    -fx-background-color: transparent;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 25px;
+    -fx-border-color: white;
+
+}
+.SearchPageChoiceBox.choice-box>.label{
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+.DeliverBookButton{
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-padding: 10px;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 25px;
+}
+.DeliverBookButton:hover{
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: #108600;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+
+}
+.DeliverTextBox{
+
+    -fx-padding: 7px;
+    -fx-border-radius: 5px;
+    -fx-pref-width: 200px;
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+
+
+}
+.DeliverTimePick{
+    -fx-pref-width: 200px;
+    -fx-border-radius: 5px;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+.ReTakeButton{
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-padding: 10px;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 25px;
+}
+.ReTakeButton:hover{
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: #108600;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+
+}
+.ReTakeText{
+
+    -fx-padding: 7px;
+    -fx-border-radius: 5px;
+    -fx-pref-width: 200px;
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+
+
+}
+
+.OrderPageButton{
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-padding: 10px;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 25px;
+}
+.OrderPageButton:hover{
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: #108600;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+
+}
+
+.OrderPageChoice.choice-box{
+    -fx-text-fill: white;
+    -fx-background-color: transparent;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 25px;
+    -fx-border-color: white;
+    -fx-border-radius: 5px;
+    -fx-font-size: 15px;
+
+}
+.OrderPageChoice.choice-box>.label{
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+.OrderPageText{
+
+    -fx-padding: 7px;
+    -fx-border-radius: 5px;
+    -fx-pref-width: 200px;
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+
+
+}
+.OrderPageLabel{
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+    -fx-font-family: 'Tahoma';
+}
+
+.RegisterPageText{
+
+    -fx-padding: 7px;
+    -fx-border-radius: 5px;
+    -fx-pref-width: 200px;
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+
+
+}
+
+.RegisterPageButton{
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-padding: 10px;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 25px;
+}
+.RegisterPageButton:hover{
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: #108600;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+
+}
+
+.CustomerLeftMenuBackground{
+    -fx-background-color: radial-gradient(radius 360%, #108600 0%,#1fff00 100%);
+    -fx-border-color: white;
+}
+.CustomerTopMenuBackground{
+    -fx-background-color: radial-gradient(radius 360%, #108600 0%,#1fff00 100%);
+    -fx-border-color: white;
+}
+.CustomerMainPageBackground{
+    -fx-background-color: radial-gradient(radius 360%, #108600 0%,#1fff00 100%);
+    -fx-border-color: white;
+}
+.CustomerMainPageButtons{
+    -fx-pref-height: 100;
+    -fx-pref-width: 100;
+    -fx-border-radius: 5px;
+    -fx-border-color:white;
+    -fx-padding: 10px;
+    -fx-font-size: 13px;
+    -fx-font-family: 'Tahoma';
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+
+}
+.CustomerMainPageButtons:hover{
+    -fx-background-color: #108600;
+    -fx-text-fill:white;
+}
+.NotificationPane{
+
+    -fx-background-color: radial-gradient(radius 360%, #108600 0%,#1fff00 100%);
+}
+.CustomerNotifLabel{
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+.LibraryCafeLabel{
+
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-family: 'Tahoma';
+    -fx-font-style: italic;
+}
